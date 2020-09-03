@@ -25,7 +25,7 @@ class LoginPage extends StatelessWidget {
             TextFormField(
               keyboardType: TextInputType.emailAddress,
               autocorrect: false,
-              initialValue: "email@gmail.com",
+              // initialValue: "email@gmail.com",
               decoration: InputDecoration(
                 hintText: "E-mail",
                 contentPadding:
@@ -60,6 +60,16 @@ class LoginPage extends StatelessWidget {
                 ),
                 child: Text(
                   'Acessar',
+                  style: TextStyle(color: Colors.white),
+                ),
+              ),
+            ),
+            FlatButton(
+              onPressed: () {},
+              child: Text(
+                'Esqueceu a senha?',
+                style: TextStyle(
+                  color: Get.theme.primaryColor,
                 ),
               ),
             ),

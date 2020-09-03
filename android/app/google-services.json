@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "76704859696",
+    "firebase_url": "https://login-firebase-5e993.firebaseio.com",
+    "project_id": "login-firebase-5e993",
+    "storage_bucket": "login-firebase-5e993.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76704859696:android:dc3319b8b47137bc410ff5",
+        "android_client_info": {
+          "package_name": "br.com.renatorv.login_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76704859696-n3n4cohpctfpmgeocfq6k178c2l5kvmb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.renatorv.login_firebase",
+            "certificate_hash": "94b11b75b58efa4e6bfd8dbf923a40821ed3942a"
+          }
+        },
+        {
+          "client_id": "76704859696-vd4fvuct6jvocmgnj0eshbktd4pq9t8b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRYToDnrO8xhJA_WboLbQvOO4vanoPxgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "76704859696-vd4fvuct6jvocmgnj0eshbktd4pq9t8b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
